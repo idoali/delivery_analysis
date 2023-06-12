@@ -16,16 +16,15 @@ delivery_analysis
 │   ├── data-sample.json
 ├── models
 │   ├── gradient_boost_model.joblib
-├── notebooks
-│   ├── notebook.ipynb
-└── README.md
+├── notebook.ipynb
 └── Report.html
+└── README.md
 ```
 
 ## Report
 The report contains all the analysis and explanations we have obtained. It also provides a step-by-step guide on how to develop a Machine Learning model that can be utilized by a delivery service company to enhance their performance.
 
-You can access the report in both HTML and Python Notebook formats. To view the HTML format report, open the `Report.html` file. For the Python Notebook, navigate to the notebooks folder and open the `notebook.ipynb` file.  
+You can access the report in both HTML and Python Notebook formats. To view the HTML format report, open the `Report.html` file. For the Python Notebook, open the `notebook.ipynb` file.  
 
 ## Machine Learning Model
 We have developed a machine learning model to predict the success of a delivery. The model is saved in Joblib format and can be found in the models folder.
